@@ -1,5 +1,6 @@
 # mini-iGEM
 This repository contains information of our ODE model and references in poster.
+Our results can be reproduced by downloading the mini_iGEM.sbproj
 
 # ODE Model
 <img src="https://github.com/Feanor007/mini-iGEM/blob/002c9973037f12b8e9530b36207142bfb423185f/Modelling/model.png" width="50%" alt="Schematic Diagram of the model">
