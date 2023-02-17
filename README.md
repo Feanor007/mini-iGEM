@@ -21,7 +21,7 @@ Krichevsky, Alexander et al. (Nov. 2010). “Autoluminescent Plants”. In: PLoS
 
 Kwak, Seon-Yeong et al. (Dec. 2017). “A Nanobionic Light-Emitting Plant”. In: Nano Letters 17.12, pp. 7951–7961. doi: 10.1021/acs.nanolett.7b04369. url: https://doi.org/10.1021/acs.nanolett.7b04369.
 
-McClung, C. Robertson (Apr. 2006). “Plant Circadian Rhythms”. In: The Plant Cell 18.4, pp. 792–803. doi: 10.1105/tpc.106.040980. url: https://doi. org/10.1105/tpc.106.040980.
+McClung, C. Robertson (Apr. 2006). “Plant Circadian Rhythms”. In: The Plant Cell 18.4, pp. 792–803. doi: 10.1105/tpc.106.040980. url: https://doi.org/10.1105/tpc.106.040980.
 
 Mitiouchkina, Tatiana et al. (Apr. 2020). “Plants with genetically encoded auto- luminescence”. In: Nature Biotechnology 38.8, pp. 944–946. doi: 10.1038/s41587-020-0500-9. url:  https://doi.org/10.1038/s41587-020-0500-9.
 
