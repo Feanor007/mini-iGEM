@@ -6,7 +6,8 @@ This repository contains information of our ODE model and references in poster.
 <img src="https://github.com/Feanor007/mini-iGEM/blob/main/Modelling/model_eqs.PNG" width="50%" alt="ODEs">
 
 # Results
-
+<img src="https://github.com/Feanor007/mini-iGEM/blob/main/Modelling/light_plot.png" width="50%" alt="light plot">
+<img src="https://github.com/Feanor007/mini-iGEM/blob/main/Modelling/substrates_plot.png" width="50%" alt="substrates plot">
 
 # References
 Bally, Julia et al. (Nov. 2015). “The extremophile Nicotiana benthamiana has traded viral defence for early vigour”. In: Nature Plants 1.11. doi: 10.1038/ nplants.2015.165. url: https://doi.org/10.1038/nplants.2015.165.
